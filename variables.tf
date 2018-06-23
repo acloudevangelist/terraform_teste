@@ -63,7 +63,7 @@ variable "git_repository_owner" {
 # Github Repository Project Name
 variable "git_repository_name" {
   description = "Project name on Github"
-  default     = "my_api"
+  default     = "micro-api"
 }
 
 # Default Branch
