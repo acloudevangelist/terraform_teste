@@ -1,14 +1,14 @@
-
+```
 
 
 ##Initialize Terraform
-terraform init
+```  terraform init ```
 
 ##Plan our modifications
-terraform plan
+``` terraform plan ```
 
 ##Apply the changes on AWS
-terraform apply
+``` terraform apply ```
 
 ## After destroy elements
-terraform destroy
+``` terraform destroy ```
